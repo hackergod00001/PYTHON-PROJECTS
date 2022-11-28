@@ -1,2 +1,2 @@
-# PYTHON-PROJECTS for UJ MP3 Player v6
-This project contains all basic python projects which I have made till date
+# UJ MP3 Player v6
+This is my music player made in python using tkinter, pygame & mutagen libraries
